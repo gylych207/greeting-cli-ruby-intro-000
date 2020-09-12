@@ -2,5 +2,4 @@
 
 def greeting(name)
   puts "Hi! I'm #{name}, what's your name?"
-  name = gets
 end
